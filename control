@@ -1,0 +1,9 @@
+Package: com.ryannair05.dotsbatteryfix
+Name: Dots Battery Fix
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fix Face ID constantly rescanning with Dots 
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Tweaks
